@@ -13,4 +13,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: 各种帮助文档
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
